@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: q206nz8h1-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/q206nz8h1-go
